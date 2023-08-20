@@ -1,5 +1,0 @@
-{{#user}}
-Name: Gaurav Kumar Singh
-Skills: Manual Testing, SQL, Core Java, Selenium
-Email: gdskushinagar@gmail.com
-{{/user}}
